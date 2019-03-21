@@ -1,2 +1,2 @@
 # bioinformatics_research_idea
-1. Genomic diversity by age -> desease causing genes
+1. Genomic diversity by age -> disease causing genes
